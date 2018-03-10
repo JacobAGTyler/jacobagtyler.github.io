@@ -1,0 +1,8 @@
+title: Jacob Tyler
+description: Business Intelligence Developer - CakePHP Hobbyist
+google_analytics: UA-60635017-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
